@@ -1,0 +1,23 @@
+# Raise one number by a power calculator by Richard Harding 27/11/2020
+
+# Define power how x is raised by y to give answer
+
+# In python the calculation is x**y i.e 2**3 = 8,not 2^3 = 8
+
+def power (x, y):
+    return x**y
+
+# input the first number to be raised by a power
+
+num1 = float(input("Enter first number:"))
+
+# Input the second number the power to raise the first number
+
+num2 = float(input("Enter second number:"))
+
+# Do the python calculation of ** which raises a number to the power number.
+
+# Print out the answer
+
+print(num1 ** num2,('is ', num1, 'raised to the power of ', num2))
+    
