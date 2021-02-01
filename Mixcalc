@@ -18,7 +18,7 @@ def divide(x, y):
 
 # This function works out a percentage
 def percentage(x, y):
-    return x / 100 * y
+    return x / y * 100
 
 # This function works out numbers raised to a power
 
