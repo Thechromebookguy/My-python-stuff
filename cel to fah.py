@@ -1,4 +1,4 @@
-# Simple program to convert delsius fahrenheit
+# Simple program to convert celsius to fahrenheit
 
 
 
